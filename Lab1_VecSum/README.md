@@ -30,11 +30,8 @@
 версии 12.4
 
 Таблица с результатами работы:
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <title>Сравнение CPU и GPU</title>
+
+Сравнение CPU и GPU
 </head>
 <body>
     <table border="1">
